@@ -1,0 +1,13 @@
+C:\Users\debra_2qm34gh\source\repos\MockAssessment3\MockAssessment3\obj\Debug\netcoreapp3.1\MockAssessment3.AssemblyInfoInputs.cache
+C:\Users\debra_2qm34gh\source\repos\MockAssessment3\MockAssessment3\obj\Debug\netcoreapp3.1\MockAssessment3.AssemblyInfo.cs
+C:\Users\debra_2qm34gh\source\repos\MockAssessment3\MockAssessment3\obj\Debug\netcoreapp3.1\MockAssessment3.csproj.CoreCompileInputs.cache
+C:\Users\debra_2qm34gh\source\repos\MockAssessment3\MockAssessment3\obj\Debug\netcoreapp3.1\MockAssessment3.csprojAssemblyReference.cache
+C:\Users\debra_2qm34gh\source\repos\MockAssessment3\MockAssessment3\bin\Debug\netcoreapp3.1\MockAssessment3.exe
+C:\Users\debra_2qm34gh\source\repos\MockAssessment3\MockAssessment3\bin\Debug\netcoreapp3.1\MockAssessment3.deps.json
+C:\Users\debra_2qm34gh\source\repos\MockAssessment3\MockAssessment3\bin\Debug\netcoreapp3.1\MockAssessment3.runtimeconfig.json
+C:\Users\debra_2qm34gh\source\repos\MockAssessment3\MockAssessment3\bin\Debug\netcoreapp3.1\MockAssessment3.runtimeconfig.dev.json
+C:\Users\debra_2qm34gh\source\repos\MockAssessment3\MockAssessment3\bin\Debug\netcoreapp3.1\MockAssessment3.dll
+C:\Users\debra_2qm34gh\source\repos\MockAssessment3\MockAssessment3\bin\Debug\netcoreapp3.1\MockAssessment3.pdb
+C:\Users\debra_2qm34gh\source\repos\MockAssessment3\MockAssessment3\obj\Debug\netcoreapp3.1\MockAssessment3.dll
+C:\Users\debra_2qm34gh\source\repos\MockAssessment3\MockAssessment3\obj\Debug\netcoreapp3.1\MockAssessment3.pdb
+C:\Users\debra_2qm34gh\source\repos\MockAssessment3\MockAssessment3\obj\Debug\netcoreapp3.1\MockAssessment3.genruntimeconfig.cache
